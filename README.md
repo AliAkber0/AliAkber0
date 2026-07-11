@@ -1,11 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ali+Akber+%F0%9F%91%8B;Full+Stack+Software+Engineer;MERN+%7C+Next.js+%7C+NestJS+%7C+GraphQL;AI-Driven+Development" alt="Typing SVG" />
+<!-- ── Typing header — rotating titles from the portfolio hero ── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Muhammad+Abbas+Ali+%F0%9F%91%8B;Full+Stack+Developer;React.js+%2F+Next.js+%2F+Node.js+%2F+NestJS;AI-Assisted+Software+Engineer;4.5%2B+Years+Building+Web+Apps" alt="Typing SVG" />
 
+<br/>
+
+<!-- ── Availability chip (matches the portfolio hero chip) ── -->
+<a href="https://muhammad-abbas-ali.netlify.app/contact">
+  <img src="https://img.shields.io/badge/Available_for_New_Opportunity-8B5CF6?style=for-the-badge" alt="Available for New Opportunity" />
+</a>
+
+<br/><br/>
+
+<!-- ── Social badges ── -->
 <p>
-  <a href="https://muhammad-abbas-ali.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-abbas-ali-6443611a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AliAkber0&style=for-the-badge&color=58A6FF" alt="Profile views" />
+  <a href="https://muhammad-abbas-ali.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-abbas-ali-6443611a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aliakber654@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AliAkber0&style=for-the-badge&color=8b5cf6" alt="Profile views" />
 </p>
 
 </div>
@@ -14,51 +26,65 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Software Engineer with **4.5+ years** of experience building production web apps
-- 🏥 Built and shipped features for a **US-based healthcare platform** (dashboards, PDF generation, drag-and-drop workflows, third-party API integrations)
+- 💻 **Full Stack / MERN Stack Developer** with **4.5+ years** of experience building production web apps
+- 🏥 Built and shipped features for a **US-based healthcare platform** — dashboards, PDF generation, drag-and-drop workflows, third-party API integrations
 - ⚡ I care about **performance, clean architecture, and developer experience**
-- 🌱 Currently exploring **AI-driven development** workflows
-- 📍 Based in Lahore, Pakistan 🇵🇰 — working remotely with global teams
+- 🤖 Using **AI-assisted workflows** (Cursor, GitHub Copilot, Claude) to ship faster without sacrificing quality
+- 📍 Based in **Lahore, Pakistan** 🇵🇰 — working remotely with global teams
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+### Frontend
 
-**Backend**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui,bootstrap,redux&theme=dark" alt="Frontend skills" />
+</a>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+### Backend
 
-**Databases & Tools**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql&theme=dark" alt="Backend skills" />
+</a>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Database, DevOps & Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,githubactions,git,github,postman,vite&theme=dark" alt="Database and tools" />
+</a>
+
+</div>
+
+---
+
+## 📜 Certifications
+
+- 🐳 **[Docker Essentials: A Developer Introduction](https://courses.cognitiveclass.ai/certificates/5dba1f202da545ae84124c6de7b4b05b)** — IBM · Cognitive Class
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AliAkber0&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAkber0&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AliAkber0&show_icons=true&count_private=true&bg_color=0A0A0F&title_color=8B5CF6&icon_color=EC4899&text_color=A1A1AA&border_color=27272A&ring_color=8B5CF6" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAkber0&layout=compact&bg_color=0A0A0F&title_color=8B5CF6&text_color=A1A1AA&border_color=27272A" alt="Top languages" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliAkber0&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AliAkber0&background=0A0A0F&border=27272A&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=E4E4E7&currStreakNum=E4E4E7&sideNums=E4E4E7&dates=A1A1AA&stroke=27272A" alt="GitHub streak" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliAkber0&bg_color=0A0A0F&color=A1A1AA&line=8B5CF6&point=EC4899&area=true&area_color=8B5CF6&hide_border=true" alt="Contribution activity graph" />
 </div>
 
 ---
@@ -73,6 +99,10 @@
 
 <div align="center">
 
-💬 Open to freelance projects and full-time opportunities — reach out on [LinkedIn](https://www.linkedin.com/in/muhammad-abbas-ali-6443611a3/) or through my [portfolio](https://muhammad-abbas-ali.netlify.app/)
+### 💬 Let's build something great together
+
+Open to **freelance projects** and **full-time opportunities** — reach out on [LinkedIn](https://www.linkedin.com/in/muhammad-abbas-ali-6443611a3/) or through my [portfolio](https://muhammad-abbas-ali.netlify.app/contact)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=100&section=footer" alt="Footer wave" />
 
 </div>
